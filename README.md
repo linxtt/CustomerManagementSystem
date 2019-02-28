@@ -5,6 +5,7 @@
   【4】数据库：MySQL5.8
   【5】项目搭建：Maven
   【6】框架使用：Spring、SpringMVC、MyBatis、Log4j
+  【7】前端界面：Jquery、Bootstrap
   
  功能模块：
   【1】用户登录
